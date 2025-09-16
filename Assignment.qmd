@@ -6,7 +6,9 @@ editor: visual
 
 # Introduction
 
-An avalanche is when a mass of material rapidly moves down a slope. It usually happens when material breaks loose from the slope, and as it moves, it gathers more material on the way down. There are different varieties of them, namely rock, ice and debris avalanches [(Karl W. Birkeland, 2025)](https://www.britannica.com/science/avalanche). The study aims to analyse and predict the occurrences of ice avalanches in Scotland using Neural Networks
+An avalanche is when a mass of material rapidly moves down a slope. It usually happens when material breaks loose from the slope, and as it moves, it gathers more material on the way down. There are different varieties of them, namely rock, ice and debris avalanches [(Karl W. Birkeland, 2025)](https://www.britannica.com/science/avalanche). The study aims to analyse and predict the observed avalanche hazard occurrences of ice avalanches in Scotland using Neural networks .
+
+Avalanches pose significant risks to safety, infrastructure, and recreational activities in mountainous regions. avalanche forecasting is important for mitigating these risks. While expert forecasters combine field observations, weather data, and snowpack tests to generate daily forecasts, these methods are time intensive and heavily rely on human expertise. With the availability of a 15-year archive of avalanche forecasts from the [Scottish Avalanche Information Service](https://www.sais.gov.uk/) (SAIS), there is an opportunity to build a predictive model that can supplement expert judgment. The challenge lies in effectively using historical data, including forecast and observed avalanche hazards, geographic and topographic factors, weather variables, and snowpack integrity measures to predict avalanche hazard levels. Developing such a model can improve the consistency and efficiency of avalanche forecasts and enhance public safety in Scotland.
 
 # EDA
 
