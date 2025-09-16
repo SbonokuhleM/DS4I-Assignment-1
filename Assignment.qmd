@@ -1,0 +1,34 @@
+---
+title: "Assignment"
+format: pdf
+editor: visual
+---
+
+# Introduction
+
+An avalanche is when a mass of material rapidly moves down a slope. It usually happens when material breaks loose from the slope, and as it moves, it gathers more material on the way down. There are different varieties of them, namely rock, ice and debris avalanches [(Karl W. Birkeland, 2025)](https://www.britannica.com/science/avalanche). The study aims to analyse and predict the occurrences of ice avalanches in Scotland using Neural Networks
+
+# EDA
+
+![](images/clipboard-431926598.jpeg){width="359"}
+
+```{r}
+df<-read.csv('scotland_avalanche_forecasts_2009_2025.csv')
+head(df)
+```
+
+# Methodology
+
+Neural Networks
+
+This method is a result of scientific studies that aimed to study the activity of the human brain first given light to by [J .William (1890)](http://www.nlpinfocentre.com/downloads/apr2014/(Ebook)%20James,%20William%20-%20The%20Principles%20Of%20Psychology%20Vol%20I.pdf) Artifitial Neural Nertworks were first introduced by [Warren S. McCulloch & Walter Pitts, (1943)](https://link.springer.com/article/10.1007/BF02478259). In 1949, Donald Hebb introduced [Hebbian Learning](https://archive.org/details/in.ernet.dli.2015.226341/page/n1/mode/2up) , a straightforward learning rule for ANNs. In 1951, Marvin Minsky created the first ANN the SNARC Solver. Frank Rosenblatt developed the perceptron in 1958, which was an attempt to use neural network procedures for character recognition. Despite its success, the perceptron faced problems when it came to handling non-linearly separable data.
+
+# Analysis
+
+# Results & Discussion
+
+# Conclusion
+
+# References
+
+McCulloch, W.S., Pitts, W. A logical calculus of the ideas immanent in nervous activity. *Bulletin of Mathematical Biophysics* **5**, 115–133 (1943). https://doi.org/10.1007/BF02478259
